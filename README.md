@@ -3,9 +3,13 @@
 - I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
 
 ## Some Tools I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,eslint,webpack,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,postman,git,vscode)](https://skillicons.dev)
 
 ## My projects
+[Coffee-house](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/coffee-house/index.html)
+[Hangman game](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/hangman/)
+[Nonograms](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/nonograms/)
+[Fun chat](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/fun-chat/) - server installation required
 <!--
 **YanaLysukha/YanaLysukha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
