@@ -8,7 +8,7 @@
 ## How to Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanina-lysukha-46064a25a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanina.lysukha@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](yaninalysukha_53979)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yanina_Lysukha)
 
 ## My projects
 * [Coffee-house](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/coffee-house/index.html)
