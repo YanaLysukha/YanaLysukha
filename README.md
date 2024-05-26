@@ -5,6 +5,9 @@
 ## Some Tools I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,postman,git,vscode)](https://skillicons.dev)
 
+## How to Reach Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanina-lysukha-46064a25a/)
+
 ## My projects
 * [Coffee-house](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/coffee-house/index.html)
 * [Hangman game](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/hangman/)
