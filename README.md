@@ -3,7 +3,7 @@
 - I am dedicated to continuously learning and improving my skills to build efficient and user-friendly web applications
 
 ## Some Tools I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,postman,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,postman,git,vscode,react)](https://skillicons.dev)
 
 ## How to Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanina-lysukha-46064a25a/)
