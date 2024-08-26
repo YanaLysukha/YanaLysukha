@@ -12,7 +12,7 @@
 
 ## My projects
 * [Coffee-house](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/coffee-house/index.html)
-* [Hangman game](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/hangman/)
+* [Hangman game](https://66cc585cd921d330cc7a8267--rainbow-stroopwafel-e305fe.netlify.app/)
 * [Nonograms](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/nonograms/)
 * [English Puzzle](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/rss-puzzle/)
 * [Fun chat](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/fun-chat/) - server installation required
