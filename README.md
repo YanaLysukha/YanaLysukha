@@ -4,7 +4,7 @@
 - Actively seeking opportunities as a Junior React Front-End Developer or an internship to gain hands-on experience and contribute to meaningful projects.
 
 ## Some Tools I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,postman,git,vscode,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,vite,vitest,postman,git,vscode,react,redux)](https://skillicons.dev)
 
 ## How to Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanina-lysukha-46064a25a/)
