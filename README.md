@@ -17,6 +17,7 @@
 * [Nonograms](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/nonograms/)
 * [English Puzzle](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/rss-puzzle/)
 * [Fun chat](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/fun-chat/) - server installation required
+* [Async race](https://github.com/YanaLysukha/async-race)
 <!--
 **YanaLysukha/YanaLysukha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
