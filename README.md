@@ -18,6 +18,7 @@
 * [English Puzzle](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/rss-puzzle/)
 * [Fun chat](https://rolling-scopes-school.github.io/yanalysukha-JSFE2023Q4/fun-chat/) - server installation required
 * [Async race](https://github.com/YanaLysukha/async-race)
+* [Lord Of The Rings Characters Finder](https://github.com/YanaLysukha/REACT2024Q3/tree/hooks-and-routing/class-components)
 <!--
 **YanaLysukha/YanaLysukha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
