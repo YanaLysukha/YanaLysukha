@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Yanina!
 - I’ve successfully completed a Front-End Development course at Rolling Scopes School and am currently deepening my knowledge in React and Redux.
 - I’m passionate about continuous learning and always eager to improve my skills to build efficient and user-friendly web applications.
-- Actively seeking opportunities as a Junior React Front-End Developer or an internship to gain hands-on experience and contribute to meaningful projects.
 
 ## Some Tools I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,ts,webpack,vite,vitest,postman,git,vscode,react,redux)](https://skillicons.dev)
